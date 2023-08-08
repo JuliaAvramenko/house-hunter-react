@@ -1,0 +1,71 @@
+.card {
+    width: 340px;
+    height: 552px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.image-wrapper {
+    display: flex;
+    width: 340px;
+    height: 382px;
+    background: url('/src/assets/images/Recomm-house1.png');
+    border-radius: 24px;
+    margin-bottom: 24px;
+}
+
+.detail {
+    display: flex;
+
+    column-gap: 10px;
+
+    height: 18px;
+    background: #FEE2E2;
+    border-radius: 32px;
+    margin-top: 324px;
+    margin-left: 16px;
+    padding: 8px 16px;
+
+}
+
+.detail-text {
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #EF4444;
+}
+
+.title {
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    color: #0E1735;
+    margin-bottom: 8px;
+
+}
+
+.price {
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;
+    color: #3C4563;
+    margin-bottom: 29px;
+}
+
+
+
+
+
+.detail-image {
+    width: 16px;
+    height: 16px;
+    object-fit: contain;
+}

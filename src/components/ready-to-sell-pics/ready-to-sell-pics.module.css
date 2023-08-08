@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    width: 488px;
+    height: 459px;
+    position: relative;
+}
+
+.images {
+    display: flex;
+    column-gap: 12px;
+    height: 168px;
+    position: absolute;
+    bottom: 0px;
+    left: -40px;
+
+}
+
+.images-wrapper {
+    display: flex;
+    column-gap: 8px;
+    align-items: flex-end;
+}
+
+.big {
+    width: 296px;
+    height: 168px;
+    object-fit: contain;
+}
+
+.small {
+    width: 96px;
+    height: 80px;
+    object-fit: contain;
+}
+
+.video {
+    width: 488px;
+    height: 416px;
+}

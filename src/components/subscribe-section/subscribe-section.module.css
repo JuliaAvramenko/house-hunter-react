@@ -1,0 +1,102 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 1200px;
+    height: 312px;
+    border-radius: 32px;
+    background-image: url(../../assets/images/gradient.png);
+    background-repeat: no-repeat;
+    position: relative;
+    margin-bottom: 120px;
+}
+
+.section {
+    margin-bottom: 120px;
+}
+
+.title {
+    margin: 0;
+    padding: 0;
+    width: 422px;
+    height: 96px;
+    color: #1B1C57;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 48px;
+    margin-bottom: 32px;
+}
+
+.wrapper {
+    width: 496px;
+}
+
+
+
+.image1 {
+    width: 81px;
+    height: 81px;
+    position: absolute;
+    top: 38px;
+    left: 44px;
+}
+
+.image2 {
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    top: 71px;
+    left: 204px;
+}
+
+.image3 {
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    top: 173px;
+    left: 67px;
+    object-fit: cover;
+}
+
+.image4 {
+    width: 54px;
+    height: 54px;
+    position: absolute;
+    top: 178px;
+    left: 195px;
+}
+
+.image5 {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 44px;
+    right: 200px;
+}
+
+.image6 {
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    top: 107px;
+    right: 82px;
+}
+
+.image7 {
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    top: 143px;
+    right: 200px;
+    object-fit: cover;
+}
+
+.image8 {
+    width: 55px;
+    height: 55px;
+    position: absolute;
+    top: 197px;
+    right: 73px;
+}

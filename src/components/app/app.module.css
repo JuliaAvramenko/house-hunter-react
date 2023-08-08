@@ -1,0 +1,36 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    width: 1440px;
+    height: 4590px;
+    overflow: hidden;
+    background-color: white;
+    z-index: 20;
+
+}
+
+.green {
+    position: absolute;
+    bottom: 965px;
+    left: -142px;
+}
+
+.blue {
+    position: absolute;
+    bottom: 1222px;
+    left: -170px;
+}
+
+.orange {
+    position: absolute;
+    top: 1452px;
+    right: -94px;
+}
+
+.yellow {
+    position: absolute;
+    top: 1574px;
+    right: -153px;
+}

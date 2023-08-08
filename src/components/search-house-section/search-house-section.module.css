@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    column-gap: 104px;
+
+}
+
+.section {
+
+    padding-left: 120px;
+    margin-bottom: 120px;
+    max-width: 1440px;
+    z-index: -1;
+}
+
+.greenish {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: -3;
+}
+
+.blue {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: -3;
+}

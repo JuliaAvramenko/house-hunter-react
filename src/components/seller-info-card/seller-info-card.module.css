@@ -1,0 +1,41 @@
+.seller {
+    display: flex;
+    column-gap: 16px;
+    align-items: center;
+
+}
+
+.images-wrapper {
+    display: flex;
+
+}
+
+.seller-wrapper {
+    display: flex;
+    flex-direction: column;
+
+    row-gap: 4px;
+}
+
+.seller-image {
+    width: 40px;
+    height: 40px;
+}
+
+.name {
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: #0E1735;
+}
+
+.place {
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #888B97;
+}

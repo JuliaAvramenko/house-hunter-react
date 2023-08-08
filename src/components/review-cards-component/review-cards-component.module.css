@@ -1,0 +1,40 @@
+.cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    column-gap: 56px;
+    margin-bottom: 137px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 545px;
+    margin-bottom: 120px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.wrapper {
+    display: flex;
+    column-gap: 16px;
+
+}
+
+.page {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #E0E3EB;
+
+}
+
+.page_active {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #3C4563;
+
+}

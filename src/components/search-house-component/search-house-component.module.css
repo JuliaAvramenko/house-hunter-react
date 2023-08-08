@@ -1,0 +1,60 @@
+.search {
+    display: flex;
+    flex-direction: column;
+    width: 496px;
+    height: 446px;
+    margin-top: 182px;
+}
+
+.title {
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: capitalize;
+
+    color: #1B1C57;
+    margin-bottom: 24px;
+
+}
+
+.span {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: capitalize;
+
+    color: transparent;
+    /* прозрачный цвет букв */
+    -webkit-text-stroke: 1px #1B1C57;
+
+}
+
+.text {
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #626687;
+
+    opacity: 0.75;
+    margin-bottom: 32px;
+}
+
+.paragraph {
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #888B97;
+}
+
+.logos {
+    width: 427px;
+    height: 64px;
+    display: flex;
+    column-gap: 32px;
+}

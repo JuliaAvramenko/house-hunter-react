@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    column-gap: 190px;
+    width: 1200px;
+    height: 459px;
+
+}
+
+.section {
+
+    display: flex;
+    margin-bottom: 120px;
+    position: relative;
+    justify-content: center;
+}

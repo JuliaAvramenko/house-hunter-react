@@ -1,0 +1,160 @@
+.container {
+    display: flex;
+    column-gap: 8px;
+    width: 522px;
+    height: 404px;
+
+    margin-top: 40px;
+
+}
+
+.small-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.orange-line {
+    width: 32px;
+    height: 1px;
+    flex-shrink: 0;
+    background: #F59E0B;
+    margin-top: 9px;
+
+}
+
+.paragraph {
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+
+    text-transform: capitalize;
+
+    color: #F59E0B;
+    margin-bottom: 12px;
+}
+
+.title {
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+    text-transform: capitalize;
+    color: #1B1C57;
+    margin-bottom: 16px;
+}
+
+.text {
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #626687;
+    opacity: 0.75;
+
+    margin-bottom: 16px;
+
+
+}
+
+.description-wrapper {
+    width: 440px;
+    height: 80px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-row-gap: 16px;
+    grid-column-gap: 70px;
+    margin-bottom: 32px;
+}
+
+.description-card {
+    display: flex;
+    align-items: center;
+
+    width: 193.5px;
+    height: 32px;
+}
+
+.description-title {
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    color: #1B1C57;
+    opacity: 0.75;
+    margin-bottom: 16px;
+}
+
+.description-text {
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: capitalize;
+    color: #3C4563;
+}
+
+.image {
+    width: 32px;
+    height: 32px;
+    margin-right: 10px;
+}
+
+.name {
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: #0E1735;
+}
+
+.job {
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #888B97;
+}
+
+.line {
+    width: 440px;
+    height: 2px;
+    background: #F0F3FD;
+    margin-bottom: 32px;
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 440px;
+
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    row-gap: 4px;
+}
+
+.contact-image {
+    margin-right: 24px;
+}
+
+.contact-image {
+    width: 56px;
+    height: 56px;
+}
+
+.contact-wrapper {
+    display: flex;
+
+}

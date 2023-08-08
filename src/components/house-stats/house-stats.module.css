@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    align-items: end;
+    width: 720px;
+    height: 720px;
+
+    border-radius: 0px 0px 0px 80px;
+    background: linear-gradient(17deg, #0C1537 0%, rgba(12, 21, 55, 0.00) 100%), lightgray -49.239px -4.186px / 124.722% 112.25% no-repeat;
+    background-image: url(../../assets/images/header-house.png);
+    position: relative;
+
+
+}
+
+.cards {
+    display: flex;
+    column-gap: 16px;
+    margin-bottom: 48px;
+    margin-left: 48px;
+
+}
+
+.red {
+    position: absolute;
+    top: 140px;
+    right: 569.5px;
+}
+
+.orange {
+    position: absolute;
+    top: 200px;
+    right: 125.5px;
+}
+
+.blue {
+    position: absolute;
+    top: 409px;
+    right: 114.5px;
+}

@@ -1,0 +1,29 @@
+.cards {
+    display: flex;
+    column-gap: 40px;
+}
+
+.section {
+    display: flex;
+    width: 1480px;
+    column-gap: 8px;
+
+    margin-bottom: 120px;
+
+    width: 1200px;
+}
+
+.line {
+    width: 32px;
+    height: 1px;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    background: #F59E0B;
+    margin-top: 9px;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}

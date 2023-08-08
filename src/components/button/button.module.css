@@ -1,0 +1,97 @@
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 32px;
+    border: none;
+    box-sizing: border-box;
+}
+
+
+.button-one {
+    background-color: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.30);
+    padding: 8px 16px;
+    color: var(--neutral-100, #F0F3FD);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: normal;
+
+}
+
+.button-two {
+    background-color: var(--green-100);
+    padding: 12px 24px;
+    color: var(--green-700);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22px;
+}
+
+.button-three {
+    background-color: var(--green-500);
+    color: #fff;
+    padding: 12px 16px;
+    font-size: 14px;
+
+    font-weight: 600;
+    line-height: 22px;
+
+
+}
+
+.button-four {
+    background-color: var(--green-100);
+    color: var(--green-500);
+    padding: 12px 24px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+.button-five {
+    background-color: transparent;
+    border: 1px solid var(--neutral-300);
+    color: var(--neutral-500);
+    padding: 12px 24px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+.button-six {
+    background-color: var(--neutral-300);
+    color: var(--neutral-700);
+    padding: 12px 16px;
+
+    font-size: 14px;
+
+    font-weight: 600;
+    line-height: 22px;
+}
+
+
+
+.button-border-white {
+    border: 1px solid rgba(255, 255, 255, 0.30);
+}
+
+.button-border-grey {
+    border: 1px solid var(--neutral-300);
+}
+
+.button-green {
+    background-color: var(--green-500);
+}
+
+.button-green-light {
+    background-color: var(--green-100);
+}
+
+.button-transparent {
+    background-color: transparent;
+}
+
+.button-grey {
+    background-color: var(--neutral-300);
+}
