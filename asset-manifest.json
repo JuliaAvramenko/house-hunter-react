@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/house-hunter-react/static/css/main.6a04ea4a.css",
+    "main.js": "/house-hunter-react/static/js/main.f0ab8596.js",
+    "static/js/787.87da5104.chunk.js": "/house-hunter-react/static/js/787.87da5104.chunk.js",
+    "static/media/header-house.png": "/house-hunter-react/static/media/header-house.afc4ca915102955767fe.png",
+    "static/media/review_house.png": "/house-hunter-react/static/media/review_house.5d7f80c33e3763d9a896.png",
+    "static/media/orange.png": "/house-hunter-react/static/media/orange.a0f44ac6df1367f9f030.png",
+    "static/media/app-green.png": "/house-hunter-react/static/media/app-green.5fe46b1697f1e0e7d36c.png",
+    "static/media/Recomm-house1.png": "/house-hunter-react/static/media/Recomm-house1.d65b6fdcc72958c4e1d0.png",
+    "static/media/footer-light-green.png": "/house-hunter-react/static/media/footer-light-green.646b5870a5f9f83b68a2.png",
+    "static/media/app-blue.png": "/house-hunter-react/static/media/app-blue.6497d3f6fa9bbf8ab6ab.png",
+    "static/media/yellow.png": "/house-hunter-react/static/media/yellow.6acd1edc94b58e1a6abb.png",
+    "static/media/header-greenish.png": "/house-hunter-react/static/media/header-greenish.f4a871abbd6b16e3098b.png",
+    "static/media/header-blue.png": "/house-hunter-react/static/media/header-blue.fbc9274d14195c0988e4.png",
+    "static/media/footer-blue.png": "/house-hunter-react/static/media/footer-blue.0820a921608d4ca7e539.png",
+    "static/media/gradient.png": "/house-hunter-react/static/media/gradient.742443743393ec821630.png",
+    "static/media/tipsandtrick_house.png": "/house-hunter-react/static/media/tipsandtrick_house.58065a1641fd9fe014a8.png",
+    "static/media/big_ready-to-sell.png": "/house-hunter-react/static/media/big_ready-to-sell.2a7bb47013e136f1d2c6.png",
+    "static/media/small2_ready-to-sell.png": "/house-hunter-react/static/media/small2_ready-to-sell.dc74003b39577140edf0.png",
+    "static/media/small1_ready-to-sell.png": "/house-hunter-react/static/media/small1_ready-to-sell.8257e525f1398c01bb6d.png",
+    "static/media/sub5.png": "/house-hunter-react/static/media/sub5.0587a60397a0730b8c51.png",
+    "static/media/sub1.png": "/house-hunter-react/static/media/sub1.a3a9a0b35177bb5ed17c.png",
+    "index.html": "/house-hunter-react/index.html",
+    "main.6a04ea4a.css.map": "/house-hunter-react/static/css/main.6a04ea4a.css.map",
+    "main.f0ab8596.js.map": "/house-hunter-react/static/js/main.f0ab8596.js.map",
+    "787.87da5104.chunk.js.map": "/house-hunter-react/static/js/787.87da5104.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a04ea4a.css",
+    "static/js/main.f0ab8596.js"
+  ]
+}
