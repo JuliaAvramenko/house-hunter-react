@@ -1,4 +1,6 @@
 import { useState } from 'react';
+import left from "../../assets/images/left-arrow.png"
+import right from "../../assets/images/right-arrow.png"
 import Button from '../button/button';
 import styles from './recommendation-header.module.css';
 
@@ -15,8 +17,12 @@ function RecommendationHeader() {
                     <Button type={currentActiveButton === "Apartment" ? "four" : "five"} onClick={() => { setCurrentActiveButton("Apartment") }}>Apartment</Button>
                 </div>
                 <div className={`${styles["side-buttons"]}`}>
-                    <Button type={"six"}>t</Button>
-                    <Button type={"three"}>t</Button>
+                    <Button type={"six"}>
+                        <img src={left} alt="left-arrow" />
+                    </Button>
+                    <Button type={"three"}>
+                        <img src={right} alt="right-arrow" />
+                    </Button>
                 </div>
             </div>
 
