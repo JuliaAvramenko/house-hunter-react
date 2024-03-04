@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/house-hunter-react/static/css/main.6a04ea4a.css",
-    "main.js": "/house-hunter-react/static/js/main.f0ab8596.js",
+    "main.css": "/house-hunter-react/static/css/main.8f004d8a.css",
+    "main.js": "/house-hunter-react/static/js/main.a27d4ca2.js",
     "static/js/787.87da5104.chunk.js": "/house-hunter-react/static/js/787.87da5104.chunk.js",
     "static/media/header-house.png": "/house-hunter-react/static/media/header-house.afc4ca915102955767fe.png",
     "static/media/review_house.png": "/house-hunter-react/static/media/review_house.5d7f80c33e3763d9a896.png",
@@ -22,12 +22,12 @@
     "static/media/sub5.png": "/house-hunter-react/static/media/sub5.0587a60397a0730b8c51.png",
     "static/media/sub1.png": "/house-hunter-react/static/media/sub1.a3a9a0b35177bb5ed17c.png",
     "index.html": "/house-hunter-react/index.html",
-    "main.6a04ea4a.css.map": "/house-hunter-react/static/css/main.6a04ea4a.css.map",
-    "main.f0ab8596.js.map": "/house-hunter-react/static/js/main.f0ab8596.js.map",
+    "main.8f004d8a.css.map": "/house-hunter-react/static/css/main.8f004d8a.css.map",
+    "main.a27d4ca2.js.map": "/house-hunter-react/static/js/main.a27d4ca2.js.map",
     "787.87da5104.chunk.js.map": "/house-hunter-react/static/js/787.87da5104.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a04ea4a.css",
-    "static/js/main.f0ab8596.js"
+    "static/css/main.8f004d8a.css",
+    "static/js/main.a27d4ca2.js"
   ]
 }
